@@ -6,8 +6,8 @@ JAVA 自动调用谷歌翻译接口实现读取txt文档进行翻译（英译汉
 主要用在翻译论文pdf文件，通常这种文件都是不连续的，在翻译时候需要进行删除换行连成句子，本程序通过按行读取txt文档中的文字，连接成句，之后调用谷歌翻译的api进行翻译，将翻译的结果保存在txt文档，生成的文档会自动的生成，需要在翻译的时候指定文件夹。
 
 ### 2.使用说明：
-使用java 可视化界面程序运行界面如下：
-![image](https://github.com/xiandyun/JavaAutoTranslate/tree/master/image/start.png)
+使用java 可视化界面程序运行界面如下：  
+![图像展示](image/start.png)  
 
 ### 3.使用方法：
 1、 新建txt文档保存需要翻译的英文。  
